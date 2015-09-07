@@ -10,3 +10,7 @@ body {
 .clockwise {
     background: #fc9;
 }
+
+.clockwise > * {
+    background: rgba(255, 255, 255, 0.5);
+}

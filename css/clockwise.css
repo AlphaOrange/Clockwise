@@ -14,7 +14,6 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: rgba(255, 0, 0, 0.5);
   display: table-cell;
   vertical-align: middle;
   text-align: center;
@@ -24,53 +23,45 @@
   bottom: 73.33vh;
   left: 50%;
   transform: translateX(-50%);
-  background: rgba(192, 255, 192, 0.5);
   text-align: center;
 }
 .cw-2 {
   position: absolute;
   bottom: 66.5vh;
   left: calc(50% + 33vh / 2);
-  background: #9ff;
 }
 .cw-3 {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
   left: calc(50% + 33vh / 2 * 1.4142);
-  background: rgba(192, 255, 192, 0.5);
 }
 .cw-4 {
   position: absolute;
   top: 66.5vh;
   left: calc(50% + 33vh / 2);
-  background: #9ff;
 }
 .cw-5 {
   position: absolute;
   top: 73.33vh;
   left: 50%;
   transform: translateX(-50%);
-  background: rgba(192, 255, 192, 0.5);
   text-align: center;
 }
 .cw-6 {
   position: absolute;
   top: 66.5vh;
   right: calc(50% + 33vh / 2);
-  background: #9ff;
 }
 .cw-7 {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
   right: calc(50% + 33vh / 2 * 1.4142);
-  background: rgba(192, 255, 192, 0.5);
 }
 .cw-8 {
   position: absolute;
   bottom: 66.5vh;
   right: calc(50% + 33vh / 2);
-  background: #9ff;
 }
 /*# sourceMappingURL=clockwise.css.map */
