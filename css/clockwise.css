@@ -5,6 +5,8 @@
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
+}
+.clockwise.guide {
   background-image: radial-gradient(circle closest-side at center center, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 32.5%, rgba(0, 0, 0, 0.3) 32.5%, rgba(0, 0, 0, 0.3) 33.5%, rgba(0, 0, 0, 0) 33.5%, rgba(0, 0, 0, 0) 46.17%, rgba(0, 0, 0, 0.7) 46.17%, rgba(0, 0, 0, 0.7) 47.17%, rgba(0, 0, 0, 0) 47.17%, rgba(0, 0, 0, 0) 66.17%, rgba(0, 0, 0, 0.3) 66.17%, rgba(0, 0, 0, 0.3) 67.17%, rgba(0, 0, 0, 0) 67.17%, rgba(0, 0, 0, 0) 100%);
 }
 .cw-0 {
